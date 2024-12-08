@@ -50,13 +50,6 @@ Since SP (Sum-of-Pairs) and TC (Total Column) scores require properly formatted 
 ## Results
 The results are stored as `.msf` files in the `results` folder. These alignments can be further evaluated using scoring tools. Detailed runtime and memory usage metrics were recorded for each tool.
 
-### Example Table
-| Tool            | RV11 Runtime (s) | RV12 Runtime (s) | Memory Usage (MB) |
-|-----------------|------------------|------------------|-------------------|
-| MUSCLE          | 0.10             | 0.11             | 164.5             |
-| Clustal Omega   | 0.20             | 0.23             | 165.3             |
-| MAFFT           | 0.15             | 0.19             | 180.0             |
-
 ## Directory Structure
 ```
 Bioinformatics Project/
